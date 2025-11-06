@@ -5,6 +5,6 @@ public class MergeConflictDemo : MonoBehaviour
 
     void Update()
     {
-        Degug.Log("This is Laura's Branch");
+        Debug.Log("This is Laura's Branch");
     }
 }
