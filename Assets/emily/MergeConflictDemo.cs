@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MegreConflictDemo : MonoBehaviour
+public class MergeConflictDemo : MonoBehaviour
 {
  
     void Update()
